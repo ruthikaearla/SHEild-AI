@@ -1,0 +1,8 @@
+{
+  "name": "Remix: SHEild AI",
+  "description": "An advanced AI-powered safety companion for women and children, providing predictive risk analysis, personalized protection strategies, and real-time emergency support.all should work perfectly ai should play major role like this app should have accss to all social media accounts,passwords,email etc so that the ai in this app predicts andgives pops up msg that to change password,create strong password etc.it should consist unique features .which helps the women safety \n",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
